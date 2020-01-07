@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-theme-apidoc": "https://github.com/dyingAngel/vuepress-theme-apidoc"
+  },
+  "scripts": {
+    "docs:build": "vuepress build docs"
+  }
+}

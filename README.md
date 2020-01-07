@@ -1,2 +1,2 @@
 # apidoc-showcase
-Vuepress API Doc Theme Showcase
+Vuepress API Reference Theme Showcase
